@@ -1,5 +1,6 @@
 # Criação de um NotebookLM para guia de estudos de extração e preparação de dados
 link para acessar o notebook: https://notebooklm.google.com/notebook/ae8da9d8-e5a6-4f7a-95c0-428a1ef6d4cb/preview
+
   O assunto do meu caderno foi desde a limpeza, normalização até a criação de chunks e suas características, decidi escolher esse tema em razão a um matéria que estou tendo na faculdade (Extração de preparação de dados), onde estamos aprendendo sobre Inteligência artificial, começando em como tratar valores nulos, duplicatas, outliers, até deixar uma base de dados perfeita para entregar para um LLM, onde serão feito chunks, de acordo com o documento, ou por largura fixa, ou por semântica,hibrído, por estrutura, e conhecendo melhor as boas práticas dessas técnicas, com o objetivo de me preparar para minha prova.
 
 Fontes: Os PDFs das matérias disponibilizados pelo professor (2) e um arquivo de texto feito por mim, porém direcionado ao próprio notebook para ele saber como deve tratar os usuários e entender o contexto de criação desse caderno.
